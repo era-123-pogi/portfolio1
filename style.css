@@ -68,12 +68,12 @@ nav ul li a {
 
 .hast {
     grid-column: 1/5;
-    width: 500px; 
-    height: 500px;
+    width: 600px; 
+    height: 700px;
     display: grid; 
     position: relative;
     top: 70px; 
-    left: 5%; 
+    left: 0%; 
     border-radius: 0%;
     object-fit: cover;
     margin: 10px;
